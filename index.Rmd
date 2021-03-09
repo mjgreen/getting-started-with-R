@@ -1,0 +1,47 @@
+---
+title: "Getting Started with R"
+output: 
+  html_document:
+    toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=TRUE)
+```
+
+<!-- ## Install git  -->
+
+<!-- ### Windows -->
+
+<!-- [https://github.com/git-for-windows/git/releases/download/v2.30.1.windows.1/Git-2.30.1-64-bit.exe](https://github.com/git-for-windows/git/releases/download/v2.30.1.windows.1/Git-2.30.1-64-bit.exe) -->
+
+## Install R
+
+### Windows
+
+[https://cran.r-project.org/bin/windows/base/R-4.0.4-win.exe](https://cran.r-project.org/bin/windows/base/R-4.0.4-win.exe)
+
+### Mac
+
+[https://cran.r-project.org/bin/macosx/R-4.0.4.pkg](https://cran.r-project.org/bin/macosx/R-4.0.4.pkg)
+
+## Install Rtools
+
+### Windows only
+
+[https://cran.r-project.org/bin/windows/Rtools/rtools40-x86_64.exe](https://cran.r-project.org/bin/windows/Rtools/rtools40-x86_64.exe)
+
+## Install RStudio
+
+### Windows
+
+[https://download1.rstudio.org/desktop/windows/RStudio-1.4.1106.exe](https://download1.rstudio.org/desktop/windows/RStudio-1.4.1106.exe)
+
+### Mac
+
+[https://download1.rstudio.org/desktop/macos/RStudio-1.4.1106.dmg](https://download1.rstudio.org/desktop/macos/RStudio-1.4.1106.dmg)
+
+
+
+
+
